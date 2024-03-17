@@ -1,6 +1,6 @@
 # React + Vite Book-App
 
-[Visit the website](https://book-app-vert.vercel.app/)
+[Visit the Book-App](https://book-app-vert.vercel.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
